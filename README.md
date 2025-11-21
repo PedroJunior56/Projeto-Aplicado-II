@@ -26,5 +26,4 @@ Pedro Lima da Silva Junior 10729027
 
 # Vídeo de Apresentação
 
-[[youtube.com/watch?v=f6NVPbD-s40&feature=youtu.be
-](https://youtu.be/f6NVPbD-s40)](https://youtu.be/f6NVPbD-s40)
+https://youtu.be/f6NVPbD-s40
